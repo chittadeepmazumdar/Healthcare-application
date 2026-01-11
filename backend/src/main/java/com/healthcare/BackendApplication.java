@@ -15,9 +15,11 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 @EntityScan(basePackages = "com.healthcare.entities")
 @EnableAsync
 public class BackendApplication {
-
+	
+	
 	public static void main(String[] args) {
 		SpringApplication.run(BackendApplication.class, args);
+		
 	}
 	
 	@Bean // equivalent to <bean id ..../> in xml file

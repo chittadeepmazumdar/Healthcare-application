@@ -127,20 +127,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 📬 Contact
-
-For questions or feedback, reach out via [GitHub Issues](https://github.com/your-username/HealthCare-Application/issues).
-
-On Thu, Jul 31, 2025 at 1:52 PM Twinkle kumar <twinklekumar.iacsd@gmail.com> wrote:
-
-
----------- Forwarded message ---------
-From: Twinkle kumar <twinklekumar.iacsd@gmail.com>
-Date: Thu, Jul 31, 2025 at 1:50 PM
-Subject: description of the project (readme)
-To: <iacdsvedang@gmail.com>
-
-
 # HealthCare-Application
 
 ## 🩺 Overview
